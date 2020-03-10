@@ -1,0 +1,21 @@
+{
+    "name": "MEAN_aula03",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/lariellen67/MEAN_aula03.git",
+    "author": "Dev ifsp ptb <dev.ifsp.ptb@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.0.1",
+        "express": "^4.17.1",
+        "express-load": "^1.1.16",
+        "method-override": "^3.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
